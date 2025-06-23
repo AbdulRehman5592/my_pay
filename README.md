@@ -195,17 +195,12 @@ flutter test test/widget_test.dart
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-- **Developer**: [Your Name]
-- **Design**: [Designer Name]
-- **Testing**: [QA Team]
 
 ## 📞 Support
 
 For support and questions:
 - Email: support@mypay.com
-- Issues: [GitHub Issues](https://github.com/yourusername/mypay/issues)
+- Issues: [GitHub Issues](https://github.com/AbdulRehman5592/my_pay/issues)
 - Documentation: [Wiki](https://github.com/yourusername/mypay/wiki)
 
 ---
